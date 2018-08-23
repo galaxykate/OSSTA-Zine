@@ -5,7 +5,7 @@ So you made a tool for people to make art! Perhaps people have started making ar
 
 **This zine is intended to help people making open-source tools for art (OSTAs) figure out how to manage their projects and communities, in a way that works for them.**
 
-Tools for art are a covenant between the creator of the tool, the people making art with it, and the people contributing to the tool.  Everyone has implicit responsibilities towards everyone else, but when we break or betray those responsibilities, feelings get hurt and work is lost.  Likewise, a community can develop when everyone feels like their contributions are valued, and that they value the contibutions of the other members.
+Tools for art are a covenant between the creator of the tool, the people making art with it, and the people contributing to the tool.  Everyone has implicit responsibilities towards everyone else, but when we break or betray those responsibilities, feelings get hurt and work is lost.  Likewise, a community can develop when everyone feels like their contributions are valued, and that they value the contributions of the other members.
 
 
 Open source art tools are different than some other forms of software development, because people are using it to create and run artwork that is deeply important to them.  That can be exciting and rewarding, because they will show you all the wonderful things your tool can be used for.  It is also terrifying, when you realize that you may have to think about whether their magnum opus can still run in 10 years!  Your users spend their **time** and **love** to make art: it is up to you to respect both!
@@ -19,7 +19,7 @@ Who are my contributors?  Open source has historically though of "contributors" 
 
 * modify or improve the core code of the project
 * add extensions or features to the project
-* write documention for the language
+* write documentation for the tool
 
 Two of these require coding skills, and one requires coding knowledge, so we often think of "contributors" as people who make code modifications to a central repo.  But these aren't the only ways to contribute to open source art tools!
 
@@ -78,7 +78,7 @@ People will come to your Github or project page for two reasons: they want to *u
 * Dreams: where do you see this project going in the future?
 * Backwards compatibility: 
 	* should users update old artworks to the latest version? What risks are there?
-	* Will you be commiting to full backwards compatibiility in the future? For all the tool, or just core functionality?  
+	* Will you be committing to full backwards compatibility in the future? For all the tool, or just core functionality?  
 	* What features are at risk of being deprecated?
 	
 
@@ -99,7 +99,7 @@ People will come to your Github or project page for two reasons: they want to *u
 
 When a contributor starts working on your project, you need to build trust with each other.  Do you trust them to do good work, that you agree with, and finish what they start?  Do they trust that you will include and value their contributions?  Some new contributors have also never done open-source work before, and they need to build trust in themselves that they can do things like pull requests and merges without breaking things.  Git is scary!
 
-**New contributors**: Is this a project where you want to encourage participation by contributors who have never made a github pull request? 
+**New contributors**: Is this a project where you want to encourage participation by contributors who have never made a GitHub pull request? 
 
 Consider adding a "new to contributing" section with a "quest structure" to guide very novice contributors:
 
@@ -168,7 +168,7 @@ I won't cover writing documentation here, but there are resources to help you fi
 
 
 ### A few last features to consider
-Some things will make your life easier, by making the ives of your contirbutors and creators easier.
+Some things will make your life easier, by making the ives of your contributors and creators easier.
 
 * **Keep all UI text in a separate file so that translators can edit a single place.**
 	*  bonus version: keep all UI text in a spreadsheet with columns for each language
@@ -188,10 +188,10 @@ Some things will make your life easier, by making the ives of your contirbutors 
 	*  There *are* ways of supporting yourself on open-source tool development
 	*  Some people give the library away free, but charge for consulting with power users
 	*  Some have a Patreon or other crowd-funded income that they link to their open-source work (I do)
-	*  Suprisingly, people inside of companies often *want* to pay to support the tools they use. 
-		*  **But**, *they usually don't have a way to expense a chartiable "donation" to the developer*
+	*  Surprisingly, people inside of companies often *want* to pay to support the tools they use. 
+		*  **But**, *they usually don't have a way to expense a charitable "donation" to the developer*
 		*  **The hack:** some tools have a "golden pumpkin", a purchasable version of the software (sometimes with multiple price tiers).  The dev gets money, and the user funds software development by "purchasing" software.
-	* **Grants:** There may be grant money available for tool development.  The NSF and the NEA (for USians) may have grants available, and other countries may have arts or science funidng available too!
+	* **Grants:** There may be grant money available for tool development.  The NSF and the NEA (for USians) may have grants available, and other countries may have arts or science funding available too!
 		* All funding agencies like to see the "reach" their money gets.  If you can track users, downloads, number of artworks made, or number of people seeing the artwork, they *really like* that data. 
 
 
@@ -205,7 +205,7 @@ A few references that were helpful to me in developing this:
 *Thanks*: much gratitude to the many people who have helped me with ideas in this document, including but not limited to Golan Levin, Rebecca Fiebrink, Daniel Shiffman, Ricardo Cabello, and OpenProcessing members.
 
 **A Note:**
-I, Kate Compton, have done none of these well.  Tracery has succeeded due to many of the principles of this document. Many of the pronciples of this document are learned from the ways that Tracery succeeded, and some prinicples are learned from things I wish I'd done well. Every open source project is different, and limited in its own way.  It is only on us to strive valiantly toward a more perfect project)
+I, Kate Compton, have done none of these well.  Tracery has succeeded due to many of the principles of this document. Many of the principles of this document are learned from the ways that Tracery succeeded, and some principles are learned from things I wish I'd done well. Every open source project is different, and limited in its own way.  It is only on us to strive valiantly toward a more perfect project)
 
 ----------------
 
