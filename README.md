@@ -1,8 +1,8 @@
-# OSSTA-Zine
-So you've created and Open-source Software Tool for Art: a helpful zine
+# So you've created and Open-source Software Tool for Art: a helpful zine
 
 
-# Users
+
+# Welcome!
 This is a zine about making Open Source (or at least open-ish) tools for the Arts.  It was made after conversations with many open source tool-makers to encapsulate the best of our knowledge about how to guide our tool, documentation, and community. It's creative commons, so feel free to share (but please attribute me and don't use it commercially without asking)
 
 **"Oops, I made an open-source art tool!", by Kate Compton, is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License, Aug 22, 2018**
