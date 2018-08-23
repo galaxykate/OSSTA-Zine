@@ -1,7 +1,9 @@
 # Oops, I made an open-source art tool!
 #### A guide for tool-makers, by @galaxykate (Kate Compton)
 
-So you made a tool for people to make art! Perhaps people have started making art with your tool.  What do you do next?  This zine is intended to help people making open-source art figure out how to run
+So you made a tool for people to make art! Perhaps people have started making art with your tool.  What do you do next?  
+
+**This zine is intended to help people making open-source tools for art (OSTAs) figure out how to manage their projects and communities, in a way that works for them.**
 
 Tools for art are a covenant between the creator of the tool, the people making art with it, and the people contributing to the tool.  Everyone has implicit responsibilities towards everyone else, but when we break or betray those responsibilities, feelings get hurt and work is lost.  Likewise, a community can develop when everyone feels like their contributions are valued, and that they value the contibutions of the other members.
 
