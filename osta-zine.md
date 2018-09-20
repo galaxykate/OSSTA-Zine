@@ -11,15 +11,15 @@ Tools for art are a covenant between the creator of the tool, the people making 
 Open source art tools are different than some other forms of software development, because people are using it to create and run artwork that is deeply important to them.  That can be exciting and rewarding, because they will show you all the wonderful things your tool can be used for.  It is also terrifying, when you realize that you may have to think about whether their magnum opus can still run in 10 years!  Your users spend their **time** and **love** to make art: it is up to you to respect both!
 
 
-So, how do you run an open-source project that works for you, but also for artists, and contributors?  Will you ask for lots of help building the source code, or do you only want people to make new art with your tool, while you control the code?  Will you have a community?  
+So, how do you run an open source project that works for you, but also for artists, and contributors?  Will you ask for lots of help building the source code, or do you only want people to make new art with your tool, while you control the code?  Will you have a community?  
 
 
 # Contributors
-Who are my contributors?  Open source has historically though of "contributors" as  people who:
+Who are my contributors?  Open source has historically thought of "contributors" as people who:
 
-* modify or improve the core code of the project
-* add extensions or features to the project
-* write documentation for the tool
+* Modify or improve the core code of the project
+* Add extensions or features to the project
+* Write documentation for the tool
 
 Two of these require coding skills, and one requires coding knowledge, so we often think of "contributors" as people who make code modifications to a central repo.  But these aren't the only ways to contribute to open source art tools!
 
@@ -43,14 +43,14 @@ All of these folks contribute to the tools they work with.  Sometimes they coord
 # Communication
 How do you communicate with users and contributors? There may be a number of different methods:
 
-* **Github page:** good for people intending to use your tool, or potentially contribute.  
+* **GitHub page:** good for people intending to use your tool, or potentially contribute.  
 	* Good: has basic community features & top-notch code and issue management.  
 	* Bad: may be intimidating to non-technical users, doesn't allow embedded examples or other custom functionality
 * **Home page:** (i.e., tracery.io) A good landing site for non-technical users.  This is a good place to tell people, in general, about what your tool does and how its used (*think: if a journalist landed here, could they write an article about your tool?*)  
 	* You may have a gallery of work, or tutorials here.  
 	* You might even have an online editor, simulator, or artwork hosting.
 * **Social media:** Should your tool have its own social media presence, or even just a hashtag?  This can be useful to talk to users, to notify them of new releases, or to signal boost new art that they make.  Can users find other users who use the tool?
-* **Forums:** Whether a slack or a reddit or mastodon or whatever comes next, your users may want a place to talk informally about what they are making and share tips.  Do you want to control and moderate this?  Maybe not.  Its ok for users to self-organize their own spaces.
+* **Forums:** Whether a Slack or a /reddit or Mastodon or whatever comes next, your users may want a place to talk informally about what they are making and share tips.  Do you want to control and moderate this?  Maybe not.  It's ok for users to self-organize their own spaces.
 
 ----------------
 
@@ -74,10 +74,10 @@ People will come to your Github or project page for two reasons: they want to *u
 	
 * Project future
 	* How often will you update? "Probably never" is an answer, too! It is better to be honest than optimistic
-* Milestones: what features are you working on? What order will they come out in?
+* Milestones: What features are you working on? What order will they come out in?
 * Dreams: where do you see this project going in the future?
 * Backwards compatibility: 
-	* should users update old artworks to the latest version? What risks are there?
+	* Should users update old artworks to the latest version? What risks are there?
 	* Will you be committing to full backwards compatibility in the future? For all the tool, or just core functionality?  
 	* What features are at risk of being deprecated?
 	
@@ -97,7 +97,7 @@ People will come to your Github or project page for two reasons: they want to *u
 			*  don't ask your contributors to do detective work to figure out how to contribute if you can help them out instead. 	 
 		
 
-When a contributor starts working on your project, you need to build trust with each other.  Do you trust them to do good work, that you agree with, and finish what they start?  Do they trust that you will include and value their contributions?  Some new contributors have also never done open-source work before, and they need to build trust in themselves that they can do things like pull requests and merges without breaking things.  Git is scary!
+When a contributor starts working on your project, you need to build trust with each other. Do you trust them to do good work, that you agree with, and finish what they start?  Do they trust that you will include and value their contributions?  Some new contributors have also never done open-source work before, and they need to build trust in themselves that they can do things like pull requests and merges without breaking things.  Git can be scary!
 
 **New contributors**: Is this a project where you want to encourage participation by contributors who have never made a GitHub pull request? 
 
@@ -105,7 +105,7 @@ Consider adding a "new to contributing" section with a "quest structure" to guid
 
 * **"Level 1 Quest:** Add your name to the plaintext list of contributors"
 	* This teaches them about making a pull request.
-	* It also proves to them (and you) that they can do so safely 	* (did they accidentally delete anyone else's name, did they follow the formatting?) 
+	* It also proves to them (and you) that they can do so safely 	* (did they accidentally delete anyone else's name?, did they follow the formatting?) 
 * **"Level 2 Quests":** non-code contributions that can be done *safely*
 	* Make a tutorial and link it on the tutorials section (or link one that someone else made)
 	* Create and add a recipe
@@ -132,9 +132,9 @@ For Three.JS, these might be:
 
 For Tracery, it might be: 
 
-* **HELLO WORLD:**  import the Tracery library in javascript, use it to create a grammar, add the modifiers library to it, and generate a piece of text
-*  use modifiers to do plurals and a/an prepending ("an assortment of zebras")
-*  push several sets of rules at the same time (i.e. to set they/them/their pronouns)
+* **HELLO WORLD:**  import the Tracery library in JavaScript, use it to create a grammar, add the modifiers library to it, and generate a piece of text
+*  Use modifiers to do plurals and a/an prepending ("an assortment of zebras")
+*  Push several sets of rules at the same time (i.e. to set they/them/their pronouns)
 
 Some recipes are **tour guides** for people starting at a certain place.  Processing.JS has a quickstart guide for Processing users *and a separate one* for Javascript users.
 
@@ -154,9 +154,9 @@ What other extensions, ports, tutorials, and translations have people made for y
 #### Version history
 Tools change over time. Language syntax evolves, tools get new features, and sometimes new updates break existing artworks.  What do you need to tell users?
 
-* a history of when major changes happened, especially if syntax changed
-* what users need to know about, like if function names changed, or your Hello World recipes changed.
-* historical releases.  This is very important for people keeping old software running.  It can be a great help if you 
+* A history of when major changes happened, especially if syntax changed
+* What users need to know about, like if function names changed, or your Hello World recipes changed.
+* Historical releases.  This is very important for people keeping old software running.  It can be a great help if you XX
 * There are Serious Thoughts on software versioning, you can read more about them here (https://robots.thoughtbot.com/maintaining-open-source-projects-versioning)
 
 #### Traditional documentation
@@ -171,9 +171,9 @@ I won't cover writing documentation here, but there are resources to help you fi
 Some things will make your life easier, by making the ives of your contributors and creators easier.
 
 * **Keep all UI text in a separate file so that translators can edit a single place.**
-	*  bonus version: keep all UI text in a spreadsheet with columns for each language
+	*  Bonus version: keep all UI text in a spreadsheet with columns for each language
 
-* **Its safer and easier for contributors to edit non-code**, or well-structured data objects that can be linted (note: tell users where the linter is!)  For example, if possible, keep contributor-modifiable files in formats like:
+* **It's safer and easier for contributors to edit non-code**, or well-structured data objects that can be linted (note: tell users where the linter is!)  For example, if possible, keep contributor-modifiable files in formats like:
 	* JSON
 	* HTML
 	* .txt or .md files
