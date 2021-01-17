@@ -1,4 +1,4 @@
-# So you've created and Open-source Software Tool for Art: a helpful zine
+# So you've created an Open-source Software Tool for Art: a helpful zine
 
 
 
