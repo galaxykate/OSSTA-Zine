@@ -13,4 +13,4 @@ Since this is a zine about running an open source project, it is itself open sou
 For any other contributions, keep in mind that I hope to keep this zine at a printable length (Ideally i need to cut it down to 8 pages, 9 is awkward!) and at a welcoming and not overwhelming tone (we tool developers are a fragile population)
 
 
-This project follows the [Contributor Convenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct.txt)
+This project follows the [Contributor Convenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
